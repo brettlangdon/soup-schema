@@ -1,0 +1,4 @@
+include README.* setup.py requirements.txt
+recursive-include soup_schema *.py
+global-exclude *.pyc
+global-exclude *.pyo
